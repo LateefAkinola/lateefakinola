@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ROS2 and exploring ways to build more ML and AI projects.
+- 👯 I’m looking to collaborate on AI, ML and Robotics Projects and Research Works.
+- 🌐 My personal website here[lateefakinola.github.io]
+
+
+
 <!--
 **LateefAkinola/lateefakinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
